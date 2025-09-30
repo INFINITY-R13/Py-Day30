@@ -1,10 +1,22 @@
 {
     "apple": {
         "email": "example@gmail.com",
-        "password": "qI1FWX(q4#iDw90!%M"
+        "password": "pass1"
     },
     "google": {
         "email": "example@gmail.com",
         "password": "4L1%um0UbTG7w!"
+    },
+    "web1": {
+        "email": "example1@gmail.com",
+        "password": "pass1"
+    },
+    "web2": {
+        "email": "example1@gmail.com",
+        "password": "Q)%9hDlGy0sbzQ"
+    },
+    "web3": {
+        "email": "example1@gmail.com",
+        "password": "pass333"
     }
 }
